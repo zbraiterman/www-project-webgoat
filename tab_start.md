@@ -9,7 +9,7 @@ tags: webgoat
 ## Getting started
 
 
-### 1. Run using Docker
+## 1. Run using Docker
 
 The easiest way to start WebGoat as a Docker container is to use the all-in-one Docker container. This is a Docker image that has WebGoat and WebWolf running inside.
 
